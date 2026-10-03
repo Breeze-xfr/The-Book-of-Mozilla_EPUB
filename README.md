@@ -4,15 +4,15 @@ An EPUB edition of *The Book of Mozilla*.
 
 ## About
 
-| Verse | Event |
-|-------|-------|
-| 12:10 | 10 December 1994 — Netscape Navigator 1.0 released |
-| 3:31 | 31 March 1998 — Netscape Navigator source code released |
-| 7:15 | 15 July 2003 — AOL closed Netscape division; Mozilla Foundation created |
-| 11:9 | 9 November 2004 — Firefox 1.0 officially released |
-| 15:1 | 15 January 2013 — Firefox OS 1.0 code freeze |
-| 11:14 | 14 November 2017 — Firefox 57 officially released |
-| 6:27 | 27 June 2019 — Firefox Preview made available for testing |
+| Verse | Event                                                                   |
+| ----- | ----------------------------------------------------------------------- |
+| 12:10 | 10 December 1994 — Netscape Navigator 1.0 released                      |
+| 3:31  | 31 March 1998 — Netscape Navigator source code released                 |
+| 7:15  | 15 July 2003 — AOL closed Netscape division; Mozilla Foundation created |
+| 11:9  | 9 November 2004 — Firefox 1.0 officially released                       |
+| 15:1  | 15 January 2013 — Firefox OS 1.0 code freeze                            |
+| 11:14 | 14 November 2017 — Firefox 57 officially released                       |
+| 6:27  | 27 June 2019 — Firefox Preview made available for testing               |
 
 ## License
 
@@ -38,6 +38,10 @@ The following earlier verses are released under **CC0 1.0 Universal (Public Doma
 - **Verse 12:10**
 - **Verse 3:31**
 - **Verse 7:15**
+
+> **Note:** These verses were originally intended to be in the Public Domain / CC0. 
+> However, because some countries and regions do not legally permit the 
+> transfer of copyright to the Public Domain, CC0 takes effect instead.
 
 CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
 
